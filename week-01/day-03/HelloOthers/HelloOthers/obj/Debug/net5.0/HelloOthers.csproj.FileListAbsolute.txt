@@ -1,0 +1,15 @@
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\HelloOthers\HelloOthers\bin\Debug\net5.0\HelloOthers.exe
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\HelloOthers\HelloOthers\bin\Debug\net5.0\HelloOthers.deps.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\HelloOthers\HelloOthers\bin\Debug\net5.0\HelloOthers.runtimeconfig.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\HelloOthers\HelloOthers\bin\Debug\net5.0\HelloOthers.runtimeconfig.dev.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\HelloOthers\HelloOthers\bin\Debug\net5.0\HelloOthers.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\HelloOthers\HelloOthers\bin\Debug\net5.0\ref\HelloOthers.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\HelloOthers\HelloOthers\bin\Debug\net5.0\HelloOthers.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\HelloOthers\HelloOthers\obj\Debug\net5.0\HelloOthers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\HelloOthers\HelloOthers\obj\Debug\net5.0\HelloOthers.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\HelloOthers\HelloOthers\obj\Debug\net5.0\HelloOthers.AssemblyInfo.cs
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\HelloOthers\HelloOthers\obj\Debug\net5.0\HelloOthers.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\HelloOthers\HelloOthers\obj\Debug\net5.0\HelloOthers.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\HelloOthers\HelloOthers\obj\Debug\net5.0\ref\HelloOthers.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\HelloOthers\HelloOthers\obj\Debug\net5.0\HelloOthers.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\HelloOthers\HelloOthers\obj\Debug\net5.0\HelloOthers.genruntimeconfig.cache
