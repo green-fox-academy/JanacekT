@@ -1,0 +1,16 @@
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\two-numbers\two-numbers\bin\Debug\net5.0\two-numbers.exe
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\two-numbers\two-numbers\bin\Debug\net5.0\two-numbers.deps.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\two-numbers\two-numbers\bin\Debug\net5.0\two-numbers.runtimeconfig.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\two-numbers\two-numbers\bin\Debug\net5.0\two-numbers.runtimeconfig.dev.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\two-numbers\two-numbers\bin\Debug\net5.0\two-numbers.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\two-numbers\two-numbers\bin\Debug\net5.0\ref\two-numbers.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\two-numbers\two-numbers\bin\Debug\net5.0\two-numbers.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\two-numbers\two-numbers\obj\Debug\net5.0\two-numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\two-numbers\two-numbers\obj\Debug\net5.0\two-numbers.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\two-numbers\two-numbers\obj\Debug\net5.0\two-numbers.AssemblyInfo.cs
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\two-numbers\two-numbers\obj\Debug\net5.0\two-numbers.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\two-numbers\two-numbers\obj\Debug\net5.0\two-numbers.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\two-numbers\two-numbers\obj\Debug\net5.0\ref\two-numbers.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\two-numbers\two-numbers\obj\Debug\net5.0\two-numbers.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\two-numbers\two-numbers\obj\Debug\net5.0\two-numbers.genruntimeconfig.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\two-numbers\two-numbers\obj\Debug\net5.0\two-numbers.csproj.AssemblyReference.cache

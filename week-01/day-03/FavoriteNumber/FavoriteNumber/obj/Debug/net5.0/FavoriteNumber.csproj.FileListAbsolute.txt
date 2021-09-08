@@ -1,0 +1,16 @@
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\FavoriteNumber\FavoriteNumber\bin\Debug\net5.0\FavoriteNumber.exe
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\FavoriteNumber\FavoriteNumber\bin\Debug\net5.0\FavoriteNumber.deps.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\FavoriteNumber\FavoriteNumber\bin\Debug\net5.0\FavoriteNumber.runtimeconfig.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\FavoriteNumber\FavoriteNumber\bin\Debug\net5.0\FavoriteNumber.runtimeconfig.dev.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\FavoriteNumber\FavoriteNumber\bin\Debug\net5.0\FavoriteNumber.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\FavoriteNumber\FavoriteNumber\bin\Debug\net5.0\ref\FavoriteNumber.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\FavoriteNumber\FavoriteNumber\bin\Debug\net5.0\FavoriteNumber.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\FavoriteNumber\FavoriteNumber\obj\Debug\net5.0\FavoriteNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\FavoriteNumber\FavoriteNumber\obj\Debug\net5.0\FavoriteNumber.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\FavoriteNumber\FavoriteNumber\obj\Debug\net5.0\FavoriteNumber.AssemblyInfo.cs
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\FavoriteNumber\FavoriteNumber\obj\Debug\net5.0\FavoriteNumber.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\FavoriteNumber\FavoriteNumber\obj\Debug\net5.0\FavoriteNumber.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\FavoriteNumber\FavoriteNumber\obj\Debug\net5.0\ref\FavoriteNumber.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\FavoriteNumber\FavoriteNumber\obj\Debug\net5.0\FavoriteNumber.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\FavoriteNumber\FavoriteNumber\obj\Debug\net5.0\FavoriteNumber.genruntimeconfig.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\FavoriteNumber\FavoriteNumber\obj\Debug\net5.0\FavoriteNumber.csproj.AssemblyReference.cache

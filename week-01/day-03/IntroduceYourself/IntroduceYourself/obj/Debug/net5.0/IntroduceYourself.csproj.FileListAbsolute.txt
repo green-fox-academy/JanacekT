@@ -1,0 +1,16 @@
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\IntroduceYourself\IntroduceYourself\bin\Debug\net5.0\IntroduceYourself.exe
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\IntroduceYourself\IntroduceYourself\bin\Debug\net5.0\IntroduceYourself.deps.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\IntroduceYourself\IntroduceYourself\bin\Debug\net5.0\IntroduceYourself.runtimeconfig.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\IntroduceYourself\IntroduceYourself\bin\Debug\net5.0\IntroduceYourself.runtimeconfig.dev.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\IntroduceYourself\IntroduceYourself\bin\Debug\net5.0\IntroduceYourself.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\IntroduceYourself\IntroduceYourself\bin\Debug\net5.0\ref\IntroduceYourself.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\IntroduceYourself\IntroduceYourself\bin\Debug\net5.0\IntroduceYourself.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\IntroduceYourself\IntroduceYourself\obj\Debug\net5.0\IntroduceYourself.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\IntroduceYourself\IntroduceYourself\obj\Debug\net5.0\IntroduceYourself.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\IntroduceYourself\IntroduceYourself\obj\Debug\net5.0\IntroduceYourself.AssemblyInfo.cs
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\IntroduceYourself\IntroduceYourself\obj\Debug\net5.0\IntroduceYourself.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\IntroduceYourself\IntroduceYourself\obj\Debug\net5.0\IntroduceYourself.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\IntroduceYourself\IntroduceYourself\obj\Debug\net5.0\ref\IntroduceYourself.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\IntroduceYourself\IntroduceYourself\obj\Debug\net5.0\IntroduceYourself.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\IntroduceYourself\IntroduceYourself\obj\Debug\net5.0\IntroduceYourself.genruntimeconfig.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\IntroduceYourself\IntroduceYourself\obj\Debug\net5.0\IntroduceYourself.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\DefineBasicInfo\DefineBasicInfo\bin\Debug\net5.0\DefineBasicInfo.exe
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\DefineBasicInfo\DefineBasicInfo\bin\Debug\net5.0\DefineBasicInfo.deps.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\DefineBasicInfo\DefineBasicInfo\bin\Debug\net5.0\DefineBasicInfo.runtimeconfig.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\DefineBasicInfo\DefineBasicInfo\bin\Debug\net5.0\DefineBasicInfo.runtimeconfig.dev.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\DefineBasicInfo\DefineBasicInfo\bin\Debug\net5.0\DefineBasicInfo.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\DefineBasicInfo\DefineBasicInfo\bin\Debug\net5.0\ref\DefineBasicInfo.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\DefineBasicInfo\DefineBasicInfo\bin\Debug\net5.0\DefineBasicInfo.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\DefineBasicInfo\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\DefineBasicInfo\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\DefineBasicInfo\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.AssemblyInfo.cs
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\DefineBasicInfo\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\DefineBasicInfo\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\DefineBasicInfo\DefineBasicInfo\obj\Debug\net5.0\ref\DefineBasicInfo.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\DefineBasicInfo\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\DefineBasicInfo\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.genruntimeconfig.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\DefineBasicInfo\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.csproj.AssemblyReference.cache

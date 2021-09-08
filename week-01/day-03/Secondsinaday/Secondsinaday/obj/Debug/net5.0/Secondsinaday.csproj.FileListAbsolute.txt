@@ -1,0 +1,16 @@
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Secondsinaday\Secondsinaday\obj\Debug\net5.0\Secondsinaday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Secondsinaday\Secondsinaday\obj\Debug\net5.0\Secondsinaday.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Secondsinaday\Secondsinaday\obj\Debug\net5.0\Secondsinaday.AssemblyInfo.cs
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Secondsinaday\Secondsinaday\obj\Debug\net5.0\Secondsinaday.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Secondsinaday\Secondsinaday\bin\Debug\net5.0\Secondsinaday.exe
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Secondsinaday\Secondsinaday\bin\Debug\net5.0\Secondsinaday.deps.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Secondsinaday\Secondsinaday\bin\Debug\net5.0\Secondsinaday.runtimeconfig.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Secondsinaday\Secondsinaday\bin\Debug\net5.0\Secondsinaday.runtimeconfig.dev.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Secondsinaday\Secondsinaday\bin\Debug\net5.0\Secondsinaday.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Secondsinaday\Secondsinaday\bin\Debug\net5.0\ref\Secondsinaday.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Secondsinaday\Secondsinaday\bin\Debug\net5.0\Secondsinaday.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Secondsinaday\Secondsinaday\obj\Debug\net5.0\Secondsinaday.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Secondsinaday\Secondsinaday\obj\Debug\net5.0\ref\Secondsinaday.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Secondsinaday\Secondsinaday\obj\Debug\net5.0\Secondsinaday.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Secondsinaday\Secondsinaday\obj\Debug\net5.0\Secondsinaday.genruntimeconfig.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Secondsinaday\Secondsinaday\obj\Debug\net5.0\Secondsinaday.csproj.AssemblyReference.cache
