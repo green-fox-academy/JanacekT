@@ -1,0 +1,16 @@
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\OddEven\OddEven\obj\Debug\net5.0\OddEven.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\OddEven\OddEven\obj\Debug\net5.0\OddEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\OddEven\OddEven\obj\Debug\net5.0\OddEven.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\OddEven\OddEven\obj\Debug\net5.0\OddEven.AssemblyInfo.cs
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\OddEven\OddEven\obj\Debug\net5.0\OddEven.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\OddEven\OddEven\bin\Debug\net5.0\OddEven.exe
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\OddEven\OddEven\bin\Debug\net5.0\OddEven.deps.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\OddEven\OddEven\bin\Debug\net5.0\OddEven.runtimeconfig.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\OddEven\OddEven\bin\Debug\net5.0\OddEven.runtimeconfig.dev.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\OddEven\OddEven\bin\Debug\net5.0\OddEven.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\OddEven\OddEven\bin\Debug\net5.0\ref\OddEven.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\OddEven\OddEven\bin\Debug\net5.0\OddEven.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\OddEven\OddEven\obj\Debug\net5.0\OddEven.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\OddEven\OddEven\obj\Debug\net5.0\ref\OddEven.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\OddEven\OddEven\obj\Debug\net5.0\OddEven.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\OddEven\OddEven\obj\Debug\net5.0\OddEven.genruntimeconfig.cache

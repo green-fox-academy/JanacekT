@@ -1,0 +1,16 @@
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AnimalsAndLegs\AnimalsAndLegs\bin\Debug\net5.0\AnimalsAndLegs.exe
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AnimalsAndLegs\AnimalsAndLegs\bin\Debug\net5.0\AnimalsAndLegs.deps.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AnimalsAndLegs\AnimalsAndLegs\bin\Debug\net5.0\AnimalsAndLegs.runtimeconfig.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AnimalsAndLegs\AnimalsAndLegs\bin\Debug\net5.0\AnimalsAndLegs.runtimeconfig.dev.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AnimalsAndLegs\AnimalsAndLegs\bin\Debug\net5.0\AnimalsAndLegs.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AnimalsAndLegs\AnimalsAndLegs\bin\Debug\net5.0\ref\AnimalsAndLegs.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AnimalsAndLegs\AnimalsAndLegs\bin\Debug\net5.0\AnimalsAndLegs.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AnimalsAndLegs\AnimalsAndLegs\obj\Debug\net5.0\AnimalsAndLegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AnimalsAndLegs\AnimalsAndLegs\obj\Debug\net5.0\AnimalsAndLegs.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AnimalsAndLegs\AnimalsAndLegs\obj\Debug\net5.0\AnimalsAndLegs.AssemblyInfo.cs
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AnimalsAndLegs\AnimalsAndLegs\obj\Debug\net5.0\AnimalsAndLegs.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AnimalsAndLegs\AnimalsAndLegs\obj\Debug\net5.0\AnimalsAndLegs.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AnimalsAndLegs\AnimalsAndLegs\obj\Debug\net5.0\ref\AnimalsAndLegs.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AnimalsAndLegs\AnimalsAndLegs\obj\Debug\net5.0\AnimalsAndLegs.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AnimalsAndLegs\AnimalsAndLegs\obj\Debug\net5.0\AnimalsAndLegs.genruntimeconfig.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AnimalsAndLegs\AnimalsAndLegs\obj\Debug\net5.0\AnimalsAndLegs.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\MiletoKmCOnverter\bin\Debug\net5.0\MiletoKmCOnverter.exe
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\MiletoKmCOnverter\bin\Debug\net5.0\MiletoKmCOnverter.deps.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\MiletoKmCOnverter\bin\Debug\net5.0\MiletoKmCOnverter.runtimeconfig.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\MiletoKmCOnverter\bin\Debug\net5.0\MiletoKmCOnverter.runtimeconfig.dev.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\MiletoKmCOnverter\bin\Debug\net5.0\MiletoKmCOnverter.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\MiletoKmCOnverter\bin\Debug\net5.0\ref\MiletoKmCOnverter.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\MiletoKmCOnverter\bin\Debug\net5.0\MiletoKmCOnverter.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\MiletoKmCOnverter\obj\Debug\net5.0\MiletoKmCOnverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\MiletoKmCOnverter\obj\Debug\net5.0\MiletoKmCOnverter.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\MiletoKmCOnverter\obj\Debug\net5.0\MiletoKmCOnverter.AssemblyInfo.cs
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\MiletoKmCOnverter\obj\Debug\net5.0\MiletoKmCOnverter.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\MiletoKmCOnverter\obj\Debug\net5.0\MiletoKmCOnverter.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\MiletoKmCOnverter\obj\Debug\net5.0\ref\MiletoKmCOnverter.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\MiletoKmCOnverter\obj\Debug\net5.0\MiletoKmCOnverter.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\MiletoKmCOnverter\obj\Debug\net5.0\MiletoKmCOnverter.genruntimeconfig.cache

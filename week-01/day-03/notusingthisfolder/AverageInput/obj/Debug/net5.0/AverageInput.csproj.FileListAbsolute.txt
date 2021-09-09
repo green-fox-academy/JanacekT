@@ -1,0 +1,15 @@
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AverageInput\AverageInput\obj\Debug\net5.0\AverageInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AverageInput\AverageInput\obj\Debug\net5.0\AverageInput.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AverageInput\AverageInput\obj\Debug\net5.0\AverageInput.AssemblyInfo.cs
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AverageInput\AverageInput\obj\Debug\net5.0\AverageInput.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AverageInput\AverageInput\bin\Debug\net5.0\AverageInput.exe
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AverageInput\AverageInput\bin\Debug\net5.0\AverageInput.deps.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AverageInput\AverageInput\bin\Debug\net5.0\AverageInput.runtimeconfig.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AverageInput\AverageInput\bin\Debug\net5.0\AverageInput.runtimeconfig.dev.json
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AverageInput\AverageInput\bin\Debug\net5.0\AverageInput.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AverageInput\AverageInput\bin\Debug\net5.0\ref\AverageInput.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AverageInput\AverageInput\bin\Debug\net5.0\AverageInput.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AverageInput\AverageInput\obj\Debug\net5.0\AverageInput.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AverageInput\AverageInput\obj\Debug\net5.0\ref\AverageInput.dll
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AverageInput\AverageInput\obj\Debug\net5.0\AverageInput.pdb
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\AverageInput\AverageInput\obj\Debug\net5.0\AverageInput.genruntimeconfig.cache
