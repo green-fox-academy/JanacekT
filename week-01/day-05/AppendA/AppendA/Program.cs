@@ -17,7 +17,7 @@ namespace AppendA
 
             for (int i = 0; i < 15; i++)
             {
-                animals[i] = ({ animals} +,a);
+                animals[i] = ({ animals} + "a");
             }
             for (int i = 0; i < 15; i++)
             {
