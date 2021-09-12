@@ -15,15 +15,17 @@ namespace AppendA
 
             string[] animals = { "koal", "pand", "zebr", "anacond", "bo", "chinchill", "cobr", "gorill", "hyen", "hydr", "iguan", "impal", "pum", "tarantul", "pirahn" };
 
-            for (int i = 0; i < 15; i++)
+            for (int i = 0; i < animals.Length; i++)
             {
-                animals[i] = ({ animals} + "a");
+                animals[i] = animals[i] + "a";
             }
-            for (int i = 0; i < 15; i++)
-            {
-                Console.WriteLine(animals[i]);
-            }
+
+
+            // is it working?
+
+            Console.WriteLine(animals[14]);
             
+            //yup
         }
     }
 }

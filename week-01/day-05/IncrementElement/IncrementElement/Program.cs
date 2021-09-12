@@ -11,10 +11,10 @@ namespace IncrementElement
             //- Increment the third element
             //- Print the third element
 
-            int[] numbers = { 1, 2, 3, 4, 5 }; 
-            int a = ++numbers[2];
+            int[] numbers = { 1, 2, 3, 4, 5 };
+            numbers[2]++;
 
-            Console.WriteLine(a);
+            Console.WriteLine(numbers[2]);
         }
     }
 }

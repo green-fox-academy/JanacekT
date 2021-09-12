@@ -27,7 +27,7 @@ namespace MultiplicationTable
             int x = Convert.ToInt32(Console.ReadLine());
 
 
-            for (int n = 0; n < 11; n++)               
+            for (int n = 0; n <= 10; n++)               
             {
                 int result = (n * x);
 

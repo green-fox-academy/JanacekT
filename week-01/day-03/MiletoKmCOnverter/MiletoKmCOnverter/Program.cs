@@ -8,8 +8,8 @@ namespace MiletoKmCOnverter
         {
             Console.WriteLine("Hello User, type the distance in miles ");
 
-            string miles = Console.ReadLine();
-            double distance = Convert.ToDouble(miles);
+            
+            double distance = Convert.ToDouble(Console.ReadLine());
             double km = distance * 1.609344;
             Console.WriteLine(km);
 

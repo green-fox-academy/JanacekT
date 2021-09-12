@@ -13,3 +13,4 @@ C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Swap\Swap\obj\Debug\net5
 C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Swap\Swap\obj\Debug\net5.0\ref\Swap.dll
 C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Swap\Swap\obj\Debug\net5.0\Swap.pdb
 C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Swap\Swap\obj\Debug\net5.0\Swap.genruntimeconfig.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\Swap\Swap\obj\Debug\net5.0\Swap.csproj.AssemblyReference.cache

@@ -7,7 +7,11 @@ namespace Swap
         static void Main(string[] args)
         {
             int a = 123, b = 526;
-            (a, b) = (b, a);
+
+            int c = a;
+            a = b;
+            b = c;
+
          
             Console.WriteLine(a);
             Console.WriteLine(b);

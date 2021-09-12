@@ -12,11 +12,15 @@ namespace SwapElements
 
             string[] orders = new string[] { "first", "second", "third" };
 
+            string temporaryOrder = orders[0];
+            orders[0] = orders[2];
+            orders[2] = temporaryOrder;
 
+            //does it work?
 
+            Console.WriteLine(orders[2]);
 
-
-
+            //yup
 
             Console.ReadLine();
         }

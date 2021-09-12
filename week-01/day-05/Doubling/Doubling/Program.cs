@@ -14,14 +14,12 @@ namespace Doubling
             int baseNumber = 123;
 
 
-            Console.WriteLine(result);
-            Console.ReadLine();
+            Console.WriteLine(DoubleNumber(baseNumber));
         }
 
         static int DoubleNumber(int baseNumber)
         {
-            int result = baseNumber * 2;
-            return result;
+            return baseNumber * 2;
         }
     }
 

@@ -1,24 +1,42 @@
 ﻿using System;
 
-namespace ConditionalVariableMutation
+namespace GreenFox
 {
     class Program
     {
         static void Main(string[] args)
+
         {
             double a = 24;
             int output1 = 0;
             // if a is even increment output1 by one
 
+            if (a % 2 == 0)
+            {
+                output1 = ++output1;
+            }
+
             Console.WriteLine(output1);
-
-
 
             int b = 13;
             string output2 = "";
             // if b is between 10 and 20 set output2 to "Sweet!"
             // if less than 10 set output2 to "Less!",
             // if more than 20 set output2 to "More!"
+
+            if (b >= 10 && b <= 20)
+            {
+                output2 = "Sweet!";
+            }
+            else if (b < 10)
+            {
+                output2 = "Less!";
+            }
+            else
+            {
+                output2 = "More!";
+            }
+            
 
             Console.WriteLine(output2);
 
@@ -30,6 +48,8 @@ namespace ConditionalVariableMutation
             // if credits are smaller than 50,
             // and isBonus is false decrement c by 1
             // if isBonus is true c should remain the same
+
+
 
             Console.WriteLine(c);
 

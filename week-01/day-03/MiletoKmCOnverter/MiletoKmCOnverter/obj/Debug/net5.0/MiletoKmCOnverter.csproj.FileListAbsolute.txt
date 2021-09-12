@@ -13,3 +13,4 @@ C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\Mileto
 C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\MiletoKmCOnverter\obj\Debug\net5.0\ref\MiletoKmCOnverter.dll
 C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\MiletoKmCOnverter\obj\Debug\net5.0\MiletoKmCOnverter.pdb
 C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\MiletoKmCOnverter\obj\Debug\net5.0\MiletoKmCOnverter.genruntimeconfig.cache
+C:\Users\tomas\Desktop\greenfox\JanacekT\week-01\day-03\MiletoKmCOnverter\MiletoKmCOnverter\obj\Debug\net5.0\MiletoKmCOnverter.csproj.AssemblyReference.cache

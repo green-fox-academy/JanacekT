@@ -10,19 +10,20 @@ namespace CodingHours
             // The semester is 17 weeks long
             // Print how many hours is spent with coding in a semester by an attendee,
             // if the attendee only codes on workdays
+
             double hoursDaily = 6;
             double semestrWeeks = 17;
-            double workdays = 5;
+            double workDays = 5;
 
-            Console.WriteLine(hoursDaily * workdays * semestrWeeks);
+            Console.WriteLine(hoursDaily * workDays * semestrWeeks);
 
 
             // Print the percentage of the coding hours in the semester if the average
             // work hours weekly is 52
 
-            double averagehours = 52;
+            double workHoursWeekly = 52;
 
-            double percentageOfCodingHours = (100 / averagehours) * (hoursDaily * workdays);
+            double percentageOfCodingHours = ((hoursDaily * workDays) / workHoursWeekly) * 100;
 
             Console.WriteLine(percentageOfCodingHours);
             
