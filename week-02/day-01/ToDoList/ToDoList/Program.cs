@@ -19,9 +19,11 @@ namespace ToDoList
             //  - Download games
             //      - Diablo
 
-            StringBuilder sb = new StringBuilder(" - Buy milk\n");
-            sb.AppendLine("\n");
-
+            StringBuilder sb = new StringBuilder("- Buy milk\n");
+            sb.Insert(0, "My todo:\n");
+            sb.AppendLine("- Download games\n \t - Diablo");
+            
+           
 
             Console.WriteLine(sb.ToString());
         }
